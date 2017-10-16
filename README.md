@@ -9,3 +9,8 @@ SamsaraUI is a minimalistic IOT UI optimized for smaller screens and voice contr
 # Code of Conduct
 
 Please see the [Contributor's Covenant](covenant.md)
+
+# Instructions
+
+TODO
+
